@@ -8,6 +8,6 @@ categories:
 
 include-in-header: 
       text: |
-        <meta http-equiv="refresh" content="0; url=https://taylormkielczweski.my.canva.site/">
+        <meta http-equiv="refresh" content="0; url=https://taylormkielczewski.my.canva.site//">
 ---
 Check out her [linkedin](https://www.linkedin.com/in/taylor-kielczewski/)
