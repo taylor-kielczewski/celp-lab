@@ -5,6 +5,9 @@ date-format: " "
 categories:
   - Tech
   - Undergrad
----
 
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://taylormkielczweski.my.canva.site/">
+---
 Check out her [linkedin](https://www.linkedin.com/in/taylor-kielczewski/)
